@@ -4,7 +4,7 @@
 
 Meowdifiedevice is a counter-forensic mechanism designed for Android devices. It secures sensitive data by automatically triggering a system reboot and OS downgrade if a specific network connection is lost. Upon reboot, the device performs a cryptographic key deletion, rendering data irretrievable and effectively protecting it against unauthorized access attempts. This project explores innovative approaches for data security, particularly in regulated environments such as military or corporate settings where safeguarding information is critical.
 
-**Disclaimer:** This project is purely for research on data security techniques. Any unauthorized use to evade law enforcement or hinder investigations is strictly discouraged.
+**Disclaimer:** This research is conducted solely to explore and understand various counter-forensic mechanisms as a means of enhancing data security on mobile devices. The Meowdifiedevice project is designed to provide insight into potential applications in regulated environments, such as military and corporate security settings, where safeguarding sensitive information from unauthorized access is crucial. This technology is not intended for criminal use, and any unauthorized application for evading law enforcement or obstructing legal investigations is strictly discouraged and contrary to the authors' objectives. The project aims to contribute to the advancement of mobile security techniques under ethical and legally compliant guidelines.
 
 ## Features
 
@@ -15,7 +15,7 @@ Meowdifiedevice is a counter-forensic mechanism designed for Android devices. It
 ## Use Cases
 
 1. **Military High-Security Zones**: Prevents unauthorized data access when devices are removed from secure zones.
-2. **Counter-Forensic Measures**: Protects data against forensic recovery attempts.
+2. **Countermeasures for Illicit Activities**: Activates a data wipe if the device is seized and loses network connection, ensuring that any information becomes inaccessible, even in forensic examination scenarios.
 3. **Corporate Espionage Defense**: Ensures sensitive data is unrecoverable if devices are taken outside corporate premises or disconnected from trusted networks.
 
 ## Prerequisites
