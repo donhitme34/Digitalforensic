@@ -1,5 +1,5 @@
 # Meowdifiedevice: Counter-Forensic Solution for Android Devices
-
+![Screenshot 2024-11-14 180441](https://github.com/user-attachments/assets/a21e29fe-d7b0-4de9-8b23-43a22100a95a)
 ## Overview
 
 Meowdifiedevice is a counter-forensic mechanism designed for Android devices. It secures sensitive data by automatically triggering a system reboot and OS downgrade if a specific network connection is lost. Upon reboot, the device performs a cryptographic key deletion, rendering data irretrievable and effectively protecting it against unauthorized access attempts. This project explores innovative approaches for data security, particularly in regulated environments such as military or corporate settings where safeguarding information is critical.
